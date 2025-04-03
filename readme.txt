@@ -4,7 +4,7 @@ Donate link: https://shieldclimb.com/
 Tags: WordPress plugin, WooCommerce plugin, Order Email Viewer, WooCommerce admin tools, WordPress order management
 Requires at least: 5.8
 Tested up to: 6.7
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.2
 WC requires at least: 5.8
 WC tested up to: 9.7.1
@@ -31,6 +31,10 @@ See more via [this website](https://shieldclimb.com/free-woocommerce-plugins/ord
 2. screenshot-2.png
 
 == ChangeLog ==
+
+= V1.0.1 =
+
+*Correct text domain and escape output for security compliance
 
 = V1.0.0 =
 
