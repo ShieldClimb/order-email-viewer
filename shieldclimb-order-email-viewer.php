@@ -4,12 +4,12 @@
  * Plugin Name: ShieldClimb – Order Email Viewer for WooCommerce
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/order-email-viewer/
  * Description: Order Email Viewer for WooCommerce displays customer emails on the admin order page, saving time and boosting efficiency. Install now!
- * Version: 1.0.1
+ * Version: 1.0.2
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * WC requires at least: 5.8
- * WC tested up to: 9.7.1
+ * WC tested up to: 9.8.1
  * Requires PHP: 7.2
  * Author: shieldclimb.com
  * Author URI: https://shieldclimb.com/about-us/

@@ -38,6 +38,9 @@ ShieldClimb's **[Order Email Viewer](https://shieldclimb.com/free-woocommerce-pl
 
 ## 📜 Changelog
 
+### v1.0.2
+- Updated: Tested up to WordPress 6.8 and WooCommerce 9.8.1
+
 ### v1.0.1
 - Correct text domain and escape output for security compliance
 
